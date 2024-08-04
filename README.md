@@ -1,9 +1,15 @@
-# Simple Tetris in Python using Curses Library
+# Terminal Tetris
 
-## How to use
+This is a simple tetris implementation in terminal using standard python libraries.
 
-WIP
+## Examples
+
+> Some terminals won't display standard colors, if this happens it could look not as in examples.
+
+![example](./examples/example-1.png)
+![example](./examples/example-2.png)
+![example](./examples/example-3.png)
 
 ## Author
 
-Amir Nurmukhametov
+- Amir Nurmukhametov [(github)](https://github.com/Hereugo)
