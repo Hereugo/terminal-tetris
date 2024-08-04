@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/hereugo/projects/terminal-games/tetris-3/index.py", line 168, in run
+    self.render()
+  File "/Users/hereugo/projects/terminal-games/tetris-3/index.py", line 152, in render
+    piece.render(self.upnext_win, 0, i * 4)
+  File "/Users/hereugo/projects/terminal-games/tetris-3/pieces.py", line 45, in render
+    win.addstr(
+_curses.error: addwstr() returned ERR
